@@ -84,7 +84,6 @@ format=bundled
 ;           - socks / sockshandler
 ;       - websocket-client
 ;       - isodate
-;       - pywin32
 packages=pkg_resources
          six
          iso639
